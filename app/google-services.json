@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019241629014",
+    "project_id": "parse-test-bbce6",
+    "storage_bucket": "parse-test-bbce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019241629014:android:324cc3ee70d7b4dcfa02f7",
+        "android_client_info": {
+          "package_name": "com.hershey.fcmtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXR8WiSkcGIIR767mrxTLWAt4XudZBDpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
